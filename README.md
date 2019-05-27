@@ -5,8 +5,10 @@
 ### 생각보다 맞추기 힘드니까 열심히 해봅시다~~!!
 
 >인 게임 이미지
-![firstImage](https://github.com/Big-BlueBerry/ColorSwiiiiiitch/blob/master/Screenshots/1resultImage.PNG)
+![firstImage](https://github.com/Big-BlueBerry/ColorSwiiiiiitch/blob/master/Screenshots/ingameImage.PNG)
+
 >색이 다르면 이런 문구가 뜬다
 ![FS](https://github.com/Big-BlueBerry/ColorSwiiiiiitch/blob/master/Screenshots/1resultImage.PNG)
+
 >이렇게 색을 맞추자!
 ![TwoImage](https://github.com/Big-BlueBerry/ColorSwiiiiiitch/blob/master/Screenshots/ok.PNG)
